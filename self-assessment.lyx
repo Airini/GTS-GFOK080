@@ -1,0 +1,455 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Self-Assessment Action Plan I
+\end_layout
+
+\begin_layout Author
+Irene Lobo Valbuena
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Criteria analysis
+\end_layout
+
+\begin_layout Standard
+This analysis is to be taken from the perspective of having started on a
+ PhD position three months ago.
+ Hence, my experience in some respects is still under development, which
+ is the reason for which I decided to take the introductory course to writing
+ in the first place.
+ I have, however, already written a paper which got accepted in a peer-reviewed
+ venue and am in the process of starting a new (collaborative) one.
+\end_layout
+
+\begin_layout Standard
+In this section I already start pin-pointing some of the things I perceive
+ I do well and others which require development (ie: weak aspects to my
+ writing and relation to literature in my field).
+\end_layout
+
+\begin_layout Subsection
+Critical reading
+\end_layout
+
+\begin_layout Standard
+I am comfortable in reading different sorts of papers (more theoretical,
+ practical, literature surveys, etc.).
+ My knowledge of my specific (Computer Science) discipline allows me to
+ understand texts quite well, although as a starting PhD there are some
+ specific topics (theory-wise) which I am studying to gain full technical
+ (mostly pure or mathematical one) understanding.
+\end_layout
+
+\begin_layout Standard
+Perhaps because of having studies in two of the most relevant disciplines
+ (Computer Science and Mathematics) to my field (Functional Programming),
+ I am capable of relating concepts in articles published and general trends;
+ even identify the research 
+\begin_inset Quotes eld
+\end_inset
+
+school
+\begin_inset Quotes erd
+\end_inset
+
+ I am associated to because of my particular interests in the field and
+ perspective on problems analysed.
+ In general, this gives me a good starting point to read into texts critically
+ and compare how the difference in view point affects what I focus on in
+ a text or problem with what is highlighted as important in it.
+\end_layout
+
+\begin_layout Standard
+Despite being comfortable in reading these papers, I am aware that I still
+ have to work towards increasing my background knowledge in the more specific
+ topics I will work with.
+ Additionally, I am currently collaborating and communicating with people
+ in other (quite different) fields of engineering; a connection via which
+ I am also realising the differences in style and assumptions from field
+ to field.
+ For instance, these other fields are less explicit in their definition
+ of concepts than what I am used to in Computer Science.
+\end_layout
+
+\begin_layout Subsection
+Audience and genre awareness
+\end_layout
+
+\begin_layout Standard
+As mentioned, being in a starting phase, I am still constructing the full
+ view of potential readers of my work.
+\end_layout
+
+\begin_layout Standard
+Even though (covered in the following points) there are certain aspects
+ to writing I have identified in the communities I will be writing for,
+ I still have a long way to go in this respect and still rely on heavy feedback
+ from supervisors or other senior people in the field.
+ That being said, not only reading is relevant for this question.
+ By having attended several conferences and workshops already, spoken and
+ discussed with the authors of relevant papers in my field of study already,
+ I am already forming an intuition on how to communicate.
+ Apart from the individual aspect of writing, I have been making of connections
+ which I expect to be responsive in the future if I ask for feedback on
+ a specific piece of text falling under their domain of work.
+\end_layout
+
+\begin_layout Subsection
+Textual coherence and information structure
+\end_layout
+
+\begin_layout Standard
+For my prior publication, I was quite methodological in deciding how to
+ structure the text and how to write.
+ I took a few publications from the past two years in that venue, but since
+ they were a bit removed in object of study from my particular work, I decided
+ to take as a reference an article by my then-supervisor and a couple of
+ articles in direct relation to my work (which were amongst of the works
+ I cited in the work).
+\end_layout
+
+\begin_layout Standard
+I took particular attention to the style in writing in my supervisor's article.
+ I am aware that I have a tendency to writing overly complex compound sentences
+ and knew I had to adjust my general way of expressing ideas to produce
+ a more approachable text.
+ I consciously try to keep my writing direct and concise (without it being
+ incomplete) when writing for my field since it seems to convey a higher
+ clarity in ideas and makes for an easier read as well (by own experience
+ and short feedback I got, for instance, from my examiner when writing my
+ master's thesis).
+ Concepts can become quite abstract so clear, definite writing is beneficial
+ for readers' understanding and to keep their interest whilst reading.
+\end_layout
+
+\begin_layout Standard
+In terms of text structure, when writing I aim for each section of the paper
+ to stand for itself independently, as far as possible given the dependency
+ between ideas introduced.
+ For example, I introduce what each section will cover not only at the end
+ of the typical 
+\begin_inset Quotes eld
+\end_inset
+
+Introduction
+\begin_inset Quotes erd
+\end_inset
+
+ section, but also when starting each section so as for the reader to have
+ a clear expectation and be able to keep in mind the main goal of the section
+ throughout the process of reading of it.
+\end_layout
+
+\begin_layout Standard
+The first feedback for my past publication was quite positive with respect
+ to the quality of the writing and structure, so I perceive this general
+ approach is appropriate for my field of study.
+\end_layout
+
+\begin_layout Subsection
+Data commentary
+\end_layout
+
+\begin_layout Standard
+In my particular topics of study, data commentary is not always present
+ in the work produced given the theoretical nature of some of the studies
+ published.
+\end_layout
+
+\begin_layout Standard
+I in general haven't identified problems in my own presentation of data
+ and commenting of it.
+ Since it is most common in my field to use LaTeX editing, naming/labelling
+ and referencing data (may it be tables, graphs, algorithms, sample code,
+ etc.) is in general quite straight forward.
+ In terms of presenting data, if there are several sets to of gathered data
+ to comment on, I find it preferable to interleave them with the comments
+ referring to them such that each piece is introduced first, presented right
+ after and finally analysed or described more concisely (depending on the
+ overall structure of the written piece and whether conclusions from results
+ are extracted elsewhere) before moving on to the next particular data.
+ This way, each piece of evidence or information is encapsulated individually
+ and clearly pointed at for the reader.
+ But this is subject to the style imposed by the venue of publication (for
+ which a styling LaTeX file is normally provided or referenced if a standard
+ one is used); with a two-column format imposed this approach might not
+ always be preferable.
+\end_layout
+
+\begin_layout Subsection
+Peer response and writing process
+\end_layout
+
+\begin_layout Standard
+Frequently I approach the writing process by laying out an initial skeleton
+ which I then gradually fill out and adjust as I go, depending on whether
+ I realise some concepts should be introduced at different stages to make
+ reading the text easier and ensure each section has a well-defined purpose.
+ I normally do not give a draft for feedback until I have a well-defined
+ initial structure in my mind so as to receive feedback that is more useful
+ to the more general idea I have for a specific text.
+ But after that, I request feedback regularly with the completion of each
+ section so as to incorporate any additional general feedback I can extract
+ from particular remarks to the rest of the writing.
+\end_layout
+
+\begin_layout Standard
+As I am used to doing so for code when programming, I use version control
+ systems (eg: git) to track my writing too.
+ This makes it easier for someone else, generally a supervisor, to check
+ the current state of my writing and also makes it very simple and effortless
+ to track the evolution of the text (useful if one wants to backtrack for
+ example) without having to explicitly keep past versions of a text.
+\end_layout
+
+\begin_layout Standard
+I have received different kinds of feedback from supervisors: my past supervisor
+ preferred adding remarks on the final processed (pdf) document whilst my
+ current supervisor refers to where he finds an issue or has remarks in
+ the document via a separate file or e-mail.
+ Either way has so far worked for me, but I attribute this to their clarity
+ in giving feedback.
+ In any case, both approaches follow the same style: pointing at specific
+ areas where there might be a conflict.
+ General comments on a piece of writing are useful to me if no example of
+ what is being pointed at is given.
+\end_layout
+
+\begin_layout Standard
+When I have been responsible for giving feedback on a text, I have (maybe
+ by imitation) followed a similar style to that of my supervisors.
+ More particularly, I highlight parts I find disconnected or incomplete
+ by asking what they relate to more concretely, or make suggestions in a
+ direct way but using modal verbs such as 
+\begin_inset Quotes eld
+\end_inset
+
+could
+\begin_inset Quotes erd
+\end_inset
+
+.
+ If I find something has not been mentioned, I tend to pose a meaningful
+ question about it (by showing what its relevance could be).
+ However, in general, I haven't had a chance yet to see whether my feedback
+ can have an impact.
+\end_layout
+
+\begin_layout Subsection
+Language proficiency
+\end_layout
+
+\begin_layout Standard
+In terms of technical writing and the vocabulary to use, I would initially
+ say I do well.
+ Perhaps because of my studies in mathematics I have a good intuition with
+ respect to which forms of expression are preferable and the resulting texts
+ tend to have no ambiguous sections or remarks, which I consider is vital
+ when transmitting research ideas and results.
+\end_layout
+
+\begin_layout Standard
+Occasionally, particularly when indicating possible explanations for experimenta
+l phenomena, I do use a vocabulary which does not transmit as much decisiveness
+ as a reader would like to perceive.
+ For instance, I may abuse the use of the modal verb 
+\begin_inset Quotes eld
+\end_inset
+
+would
+\begin_inset Quotes erd
+\end_inset
+
+ to express things conditionally when it is preferred (I infer from remarks
+ I have gotten) to state what the supposed condition is and then carry on
+ expressing consequences with the more definite-sounding 
+\begin_inset Quotes eld
+\end_inset
+
+will
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+does
+\begin_inset Quotes erd
+\end_inset
+
+.
+ These kinds of constructs I also identify as being problematic in others'
+ writing, so I pay close attention to it when further re-drafting my writing.
+\end_layout
+
+\begin_layout Section
+Main strengths
+\end_layout
+
+\begin_layout Standard
+One of my biggest strengths which has not been brought up yet, is my ease
+ to communicate in English language.
+ Having studied in lower, middle and high school in English has already
+ prepared me to analyse texts in the language and write (more or less) coherentl
+y with a thought-out structure.
+ This possibly also came with training towards English language examinations
+ such as CPE (Proficiency).
+\end_layout
+
+\begin_layout Standard
+Having a relevant and strong background in two different fields related
+ to my research (with a total of seven years of study) is definitely helpful
+ too in terms of maturity when it comes to reading comprehension and ability
+ to express technical information.
+\end_layout
+
+\begin_layout Standard
+I am observant when reading, so I extract how each writer decides to present
+ their work depending on what their aim is.
+ Since I have had some practice with mimicking other people's style and/or
+ structuring, I feel confident that I can do similarly for future pieces
+ meant for a different venue or particular community slightly different
+ to the one I have started my training in.
+\end_layout
+
+\begin_layout Section
+Main weaknesses
+\end_layout
+
+\begin_layout Standard
+I have yet to develop a better approach to reading.
+ Not because of difficulty in understanding but because having a better
+ method might make it faster for me to read through a larger body of articles
+ (important now that I am just starting my PhD).
+ My general tendency is to read quite deeply into an individual paper or
+ book, whilst it could be better to have a quicker way of getting an overview
+ even at the expense of missing out on details; those one can always come
+ back to if one finds it to be relevant.
+\end_layout
+
+\begin_layout Standard
+Furthermore, even though I try to follow a structured process when writing,
+ I often get blocks or spend more time than what I judge is necessary on
+ some parts, even though I apply the strategy of having a general skeleton
+ that I gradually expand (which I think enables not only structuring and
+ paragraphing, but also makes it easier to aim what to write exactly in
+ each session spent on a specific text).
+ Something that maybe I will get past with practice but I would like to
+ improve my approach to writing to ease the process.
+\end_layout
+
+\begin_layout Section
+Addressing weaknesses and using strengths
+\end_layout
+
+\begin_layout Standard
+Initially, practice seems like the first obvious way of approaching my weaknesse
+s.
+ I am already addressing my reading difficulties by writing short notes
+ and holding myself accountable to having a good pace when reading by sharing
+ those notes with my supervisor and briefly presenting what I have understood
+ to him.
+ This also ensures I get some feedback in my reading.
+\end_layout
+
+\begin_layout Standard
+With respect to the course, since I have an upcoming collaborative paper,
+ I intend to apply some of the learned aspects to the general process.
+ I will be working with another person at my same level and two or three
+ seniors with different specialisations, so that will give good opportunity
+ to exercise the feedback and writing process interaction, as well as figure
+ out what in the concrete interdisciplinary field I should be focusing on
+ (being closer to Mathematics than my prior publication).
+ Writing with others will also help me identify more concretely common but
+ also diverse ways of formulating ideas (those to be presented not only
+ in a formal way).
+ Hopefully the course will enable me to gain awareness on how my own feedback
+ is taken and processed by others, something I do not have any impression
+ of yet.
+\end_layout
+
+\begin_layout Standard
+On the reading side, some of the points I couldn't address whilst thinking
+ about the CARS analysis will hopefully help me narrowing down the style
+ and trends in writing in the specific field(s) I will be contributing to.
+\end_layout
+
+\end_body
+\end_document
