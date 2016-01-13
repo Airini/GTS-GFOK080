@@ -1,0 +1,1258 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Self-Assessment Action Plan II
+\end_layout
+
+\begin_layout Author
+Irene Lobo Valbuena
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Criteria analysis
+\end_layout
+
+\begin_layout Standard
+This analysis is to be taken from the perspective of having started on a
+ PhD position three months ago.
+ Hence, my experience in some respects is still under development, which
+ is the reason for which I decided to take the introductory course to writing
+ in the first place.
+ I have, however, already written a paper which got accepted in a peer-reviewed
+ venue and am in the process of starting a new (collaborative) one.
+\end_layout
+
+\begin_layout Standard
+In this section I already start pin-pointing some of the things I perceive
+ I do well and others which require development (ie: weak aspects to my
+ writing and relation to literature in my field).
+ I have expanded some points from the first assessment plan and included
+ some indicators and evidence of my work.
+\end_layout
+
+\begin_layout Subsection
+Critical reading
+\end_layout
+
+\begin_layout Standard
+I am comfortable in reading different sorts of papers (more theoretical,
+ practical, literature surveys, etc.).
+ My knowledge of my specific (Computer Science) discipline allows me to
+ understand texts quite well, although as a starting PhD there are some
+ specific topics (theory-wise) which I am studying to gain full technical
+ (mostly pure or mathematical one) understanding.
+\end_layout
+
+\begin_layout Standard
+Perhaps because of having studies in two of the most relevant disciplines
+ (Computer Science and Mathematics) to my field (Functional Programming),
+ I am capable of relating concepts in articles published and general trends;
+ even identify the research 
+\begin_inset Quotes eld
+\end_inset
+
+school
+\begin_inset Quotes erd
+\end_inset
+
+ I am associated to because of my particular interests in the field and
+ perspective on problems analysed.
+ In general, this gives me a good starting point to read into texts critically
+ and compare how the difference in view point affects what I focus on in
+ a text or problem with what is highlighted as important in it.
+\end_layout
+
+\begin_layout Standard
+Despite being comfortable in reading these papers, I am aware that I still
+ have to work towards increasing my background knowledge in the more specific
+ topics I will work with.
+\end_layout
+
+\begin_layout Standard
+Additionally, I am currently collaborating and communicating with people
+ in other (quite different) fields of engineering; a connection via which
+ I am also realising the differences in style and assumptions from field
+ to field.
+ For instance, these other fields are less explicit in their definition
+ of concepts than what I am used to in Computer Science.
+ In other scenarios, a single word may entail different meanings to the
+ various collaborating parts, like the word 
+\begin_inset Quotes eld
+\end_inset
+
+requirements
+\begin_inset Quotes erd
+\end_inset
+
+ which appeared in the description of a deliverable to be developed by one
+ part but meant for the whole project as binding, common ground.
+ This word alone sparked a few weeks of discussion: it was understood by
+ some as requirements of the project's outcome, by others as requirements
+ of the computer systems to develop, and yet by others as the requirements
+ on the physical objects of study to be considered within the scope of the
+ work.
+ What is more, after the first drafts of said deliverable and further misunderst
+anding, there has been an effort in developing 
+\emph on
+ontologies
+\emph default
+ to set a common vocabulary and language for all collaborators.
+\end_layout
+
+\begin_layout Subsection
+Audience and genre awareness
+\end_layout
+
+\begin_layout Standard
+As mentioned, being in a starting phase, I am still constructing the full
+ view of potential readers of my work.
+\end_layout
+
+\begin_layout Standard
+Even though (covered in the following points) there are certain aspects
+ to writing I have identified in the communities I will be writing for,
+ I still have a long way to go in this respect and still rely on heavy feedback
+ from supervisors or other senior people in the field.
+ That being said, not only reading is relevant for this question.
+ By having attended several conferences and workshops already, spoken and
+ discussed with the authors of relevant papers in my field of study already,
+ I am already forming an intuition on how to communicate.
+ Apart from the individual aspect of writing, I have been making connections
+ which I expect to be responsive in the future if I ask for feedback on
+ a specific piece of text falling under their domain of work.
+ These include explicit offers of feedback on my writing from scientists
+ developing techniques at other universities (concretely, functional and
+ logic programming ones) I employ in my work and potential collaboration
+ with others at my own department who study aspects of computation (for
+ instance: how to represent, simulate and reason about the concept of 
+\emph on
+time
+\emph default
+ and 
+\emph on
+time dependency
+\emph default
+ in an efficient and sound manner) my work will have to consider.
+\end_layout
+
+\begin_layout Subsection
+Textual coherence and information structure
+\end_layout
+
+\begin_layout Standard
+For my prior publication, I was quite methodological in deciding how to
+ structure the text and how to write.
+ I took a few publications from the past two years in that venue, but since
+ they were a bit removed in object of study from my particular work, I decided
+ to take as a reference an article by my then-supervisor and a couple of
+ articles in direct relation to my work (which were amongst of the works
+ I cited in the work).
+\end_layout
+
+\begin_layout Standard
+I took particular attention to the style in writing in my supervisor's article.
+ I am aware that I have a tendency to writing overly complex compound sentences
+ and knew I had to adjust my general way of expressing ideas to produce
+ a more approachable text.
+ I consciously try to keep my writing direct and concise (without it being
+ incomplete) when writing for my field since it seems to convey a higher
+ clarity in ideas and makes for an easier read as well (by own experience
+ and short feedback I got, for instance, from my examiner when writing my
+ master's thesis).
+ For example, I was given remarks on some of my sentences being 
+\begin_inset Quotes eld
+\end_inset
+
+too convoluted
+\begin_inset Quotes erd
+\end_inset
+
+, even on the almost final version of a text, such as:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+These proof failures were due to there being a missing lemma which was not
+ discovered in each case and yet would have led to complete their proofs.
+ Specifically, these lemmas were:
+\end_layout
+
+\begin_layout Plain Layout
+
+(...)
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Which, re-written in the final draft, became:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+These two lemmas are discovered.
+ In both cases, a single additional lemma which is not discovered would
+ allow to complete the proof.
+ Specifically, the respective lemmas were:
+\end_layout
+
+\begin_layout Plain Layout
+
+(...)
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Concepts can become quite abstract so clear, definite writing is beneficial
+ for readers' understanding and to keep their interest whilst reading.
+ With as much reference to objects mentioned in a sentence as the first
+ version has, the text does not become ambiguous but harder to decipher
+ and more complicated to read.
+ The later version encapsulates the two objects we want to remark on in
+ two different sentences, breaking down the text into easier to digest bites.
+ Having each sentence highlight aspects about a single object helps the
+ reader in understanding better the scenario.
+ Since the number of the subject also changes from one clause to the next,
+ the linking between both sentences 
+\begin_inset Quotes eld
+\end_inset
+
+In both cases
+\begin_inset Quotes erd
+\end_inset
+
+ also makes it clearer how the fact in the second clause relates to the
+ first.
+\end_layout
+
+\begin_layout Standard
+With respect to the comments on the prior self-assessment plan, even though
+ my 
+\begin_inset Quotes eld
+\end_inset
+
+natural
+\begin_inset Quotes erd
+\end_inset
+
+ approach to writing includes sentences like the one cited, it is also important
+ to ensure that the work I share is more direct and understandable to any
+ reader, even when in the middle of the writing process where only some
+ initial feedback is expected.
+ It actually enables the feedback to have a chance to focus more on the
+ scientific content of the text on the relation of the text to the field
+ instead of the format and language it is written in.
+ At this early stage of a career in academia, knowing what is scientifically
+ relevant or not is harder to determine, and helping someone reviewing a
+ text to see whether the text responds to a relevant scientific question
+ is important.
+ On a different note, after grading students' work throughout the semester
+ (of which I cannot attach explicit examples) this aspect of writing has
+ become even more important to me since I was able to experience the feedback
+ side on a written piece and frequently complicated sentences disturbed
+ the understanding of what a student meant.
+\end_layout
+
+\begin_layout Standard
+In terms of text structure, when writing I aim for each section of the paper
+ to stand for itself independently, as far as possible given the dependency
+ between ideas introduced.
+ For example, I introduce what each section will cover not only at the end
+ of the typical 
+\begin_inset Quotes eld
+\end_inset
+
+Introduction
+\begin_inset Quotes erd
+\end_inset
+
+ section, but also when starting each section so as for the reader to have
+ a clear expectation and be able to keep in mind the main goal of the section
+ throughout the process of reading it.
+ Whilst not of vital importance, it can be useful when sections do not have
+ a typical heading.
+ See for instance in the attached (at the end of this document) paper 
+\emph on
+Conditional Lemma Discovery and Recursion Induction in Hipster
+\emph default
+, where Sections 2 and 3 have titles relating to the specific work I developed
+ (
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Hipster
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Conditional Lemmas and Recursion Induction
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ respectively) in which case an initial paragraph can, not only clarify
+ the purpose of the section, but also justify its inclusion as a separate
+ section and not part of another.
+\end_layout
+
+\begin_layout Standard
+The first feedback for my past publication was quite positive with respect
+ to the quality of the writing and structure, so I perceive this general
+ approach is appropriate for my field of study.
+ An example of a general remark given by an anonymous reviewer on the first
+ submitted draft was:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+This is a nice paper: well-motivated, well-written, and for the most part,
+ clearly explained.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Of course, clarity and accuracy is the main goal in one's writing.
+ But, even though I have yet to determine how or what, a next thing that
+ I would like to work on is developing a specific style in my writing so
+ as to move away more from a template-following approach to one in which
+ my writing is more natural.
+ Along with this, on the technical side, my writing could benefit from a
+ greater focus on how to distribute references to parts of the related literatur
+e which are relevant better instead of these being mostly in the typical
+ 
+\begin_inset Quotes eld
+\end_inset
+
+related work
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+background
+\begin_inset Quotes erd
+\end_inset
+
+ sections.
+\end_layout
+
+\begin_layout Subsection
+Data commentary
+\end_layout
+
+\begin_layout Standard
+In my particular topics of study, data commentary is not always present
+ in the work produced given the theoretical nature of some of the studies
+ published.
+\end_layout
+
+\begin_layout Standard
+I in general haven't identified problems in my own presentation of data
+ and commenting of it.
+ Since it is most common in my field to use LaTeX editing, naming/labelling
+ and referencing data (may it be tables, graphs, algorithms, sample code,
+ etc.) is in general quite straight forward.
+ In terms of presenting data, if there are several sets of gathered data
+ to comment on, I find it preferable to interleave them with the comments
+ referring to them such that each piece is introduced first, presented right
+ after and finally analysed or described more concisely (depending on the
+ overall structure of the written piece and whether conclusions from results
+ are extracted elsewhere) before moving on to the next particular data.
+ This way, each piece of evidence or information is encapsulated individually
+ and clearly pointed at for the reader.
+ But this is subject to the style imposed by the venue of publication (for
+ which a styling LaTeX file is normally provided or referenced if a standard
+ one is used); with a two-column format imposed this approach might not
+ always be preferable.
+\end_layout
+
+\begin_layout Standard
+With respect to data commentary, I will refer again to the attached paper
+ 
+\emph on
+Conditional Lemma Discovery and Recursion Induction in Hipster.
+
+\emph default
+ In Section 4.2 results are presented, and instead of aggregating them all
+ in a single figure, they are isolated by the kind of matter they refer
+ to (Table 2 refers to automation and Table 3 to lemma discovery, for example).
+ This makes referencing figures which are relevant easier.
+ With simple data that can lead to nuanced conclusions or conjectures, as
+ in this case, I have found it more convenient not to overload the caption
+ to a figure or table with the conclusions or main observations to make.
+ Instead, a single block of text with an appropriate leading sub-heading
+ helps to isolate the different lines of observation which can be made.
+ Having introduced the results first (with appropriate labels for reference,
+ such as column headings) is useful for the reader to have a clear picture
+ of what has been achieved, whilst the structure of the data commentary
+ in that specific case helped to highlight the depth and detail of the analysis
+ made in the work.
+ In terms of language, a predominance of passive structure puts attention
+ on the studied or manipulated objects, rather than on the tools developed
+ to do so.
+ This is suitable for analysis since there is an interest in categorising
+ the objects which are studied throughout the work.
+\end_layout
+
+\begin_layout Subsection
+Peer response and writing process
+\end_layout
+
+\begin_layout Standard
+Frequently I approach the writing process by laying out an initial skeleton
+ which I then gradually fill out and adjust as I go, depending on whether
+ I realise some concepts should be introduced at different stages to make
+ reading the text easier and ensure each section has a well-defined purpose.
+ I normally do not give a draft for feedback until I have a well-defined
+ initial structure in my mind so as to receive feedback that is more useful
+ to the more general idea I have for a specific text.
+ But after that, I request feedback regularly with the completion of each
+ section so as to incorporate any additional general feedback I can extract
+ from particular remarks to the rest of the writing.
+ This feedback concerns each section internally (whether the main idea is
+ well-framed and supported by the arguments made) and the overall structure
+ of a text.
+ For example, in the first drafts of the already mentioned (and only) publicatio
+n (attached at the end: 
+\emph on
+Conditional Lemma Discovery and Recursion Induction in Hipster
+\emph default
+), the structure of sections (in terms of content) was:
+\end_layout
+
+\begin_layout Enumerate
+Introduction
+\end_layout
+
+\begin_layout Enumerate
+Other work which tied into the work presented
+\end_layout
+
+\begin_layout Enumerate
+Specific strategy developed and employed in the new work
+\end_layout
+
+\begin_layout Enumerate
+Benefits from the strategy, with a concrete and relevant example use case
+\end_layout
+
+\begin_layout Enumerate
+Evaluation and result comparison
+\end_layout
+
+\begin_layout Enumerate
+Overview of related work
+\end_layout
+
+\begin_layout Enumerate
+Future work
+\end_layout
+
+\begin_layout Standard
+During the writing process, and thanks to my advisor's feedback, Sections
+ 3 and 4 were swapped first and finally merged to form the structure:
+\end_layout
+
+\begin_layout Enumerate
+Introduction
+\end_layout
+
+\begin_layout Enumerate
+Other work which tied into the work presented
+\end_layout
+
+\begin_layout Enumerate
+Differences with respect to previous work; specific strategy developed and
+ employed in the new work, and benefits of the strategy; concrete and relevant
+ example case study where the old approach would fail but the new one did
+ not
+\end_layout
+
+\begin_layout Enumerate
+Evaluation and result comparison
+\end_layout
+
+\begin_layout Enumerate
+Overview of related work
+\end_layout
+
+\begin_layout Enumerate
+Future work
+\end_layout
+
+\begin_layout Standard
+With this new structure the motivation of the work presented becomes stronger
+ and easier to tie in with the original work.
+ Having continued feedback from made these shifts in structure easier since
+ they were incorporated gradually as the text grew, not right at the end.
+\end_layout
+
+\begin_layout Standard
+As I am used to doing so for code when programming, I use version control
+ systems (eg: git) to track my writing too.
+ This makes it easier for someone else, generally a supervisor, to check
+ the current state of my writing and also makes it very simple and effortless
+ to track the evolution of the text (useful if one wants to backtrack for
+ example) without having to explicitly keep past versions of a text.
+\end_layout
+
+\begin_layout Standard
+When discussing this aspect during the second workshop of the course, since
+ discussion groups were influenced by the departments we belonged to, this
+ seemed to be a quite common way to proceed despite not all people employing
+ it.
+ In contrast, given that I collaborate with people working in other domains
+ I have also experienced a different way of sharing documents for the purpose
+ of receiving and giving peer reviewing.
+ With this team communication largely occurred via e-mail and shared files,
+ which in my experience has been largely hindering ability to follow the
+ thread (and order) of communication.
+ Shared files end up having many comments in different colours (depending
+ on the author) but with no clarity as to the chronology of these, something
+ which does not happen with a version control system (excerpts not available
+ due to the nature of the project).
+\end_layout
+
+\begin_layout Standard
+I have received different kinds of feedback from supervisors: my past supervisor
+ preferred adding remarks on the final processed (pdf) document whilst my
+ current supervisor refers to where he finds an issue or has remarks in
+ the document via a separate file or e-mail.
+ Either way has so far worked for me, but I attribute this to their clarity
+ in giving feedback.
+ In any case, both approaches follow the same style: pointing at specific
+ areas where there might be a conflict.
+ General comments on a piece of writing are useful to me if no example of
+ what is being pointed at is given.
+\end_layout
+
+\begin_layout Standard
+When I have been responsible for giving feedback on a text, I have (maybe
+ by imitation) followed a similar style to that of my supervisors.
+ More particularly, I highlight parts I find disconnected or incomplete
+ by asking what they relate to more concretely, or make suggestions in a
+ direct way but using modal verbs such as 
+\begin_inset Quotes eld
+\end_inset
+
+could
+\begin_inset Quotes erd
+\end_inset
+
+.
+ If I find something has not been mentioned, I tend to pose a meaningful
+ question about it (by showing what its relevance could be).
+ However, in general, I haven't had a chance yet to see whether my feedback
+ can have an impact.
+\end_layout
+
+\begin_layout Subsection
+Language proficiency
+\end_layout
+
+\begin_layout Standard
+In terms of technical writing and the vocabulary to use, I would initially
+ say I do well.
+ Perhaps because of my studies in mathematics I have a good intuition with
+ respect to which forms of expression are preferable and the resulting texts
+ tend to have no ambiguous sections or remarks, which I consider is vital
+ when transmitting research ideas and results.
+\end_layout
+
+\begin_layout Standard
+Occasionally, particularly when indicating possible explanations for experimenta
+l phenomena, I do use a vocabulary which does not transmit as much decisiveness
+ as a reader would like to perceive.
+ For instance, I may abuse the use of the modal verb 
+\begin_inset Quotes eld
+\end_inset
+
+would
+\begin_inset Quotes erd
+\end_inset
+
+ to express things conditionally when it is preferred (I infer from remarks
+ I have gotten) to state what the supposed condition is and then carry on
+ expressing consequences with the more definite-sounding 
+\begin_inset Quotes eld
+\end_inset
+
+will
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+does
+\begin_inset Quotes erd
+\end_inset
+
+.
+ These kinds of constructs I also identify as being problematic in others'
+ writing, so I pay close attention to it when further re-drafting my writing.
+\end_layout
+
+\begin_layout Standard
+As an example, take the following extract:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+For efficiency reasons, lemmas are only constructed with terms up to a certain
+ depth, 3, during theory exploration in Hipster using the underlying HipSpec/Qui
+ckSpec, whilst the required lemma has term depth 4, reason for which it
+ is not obtained.
+ QuickSpec would generate such a conjecture were it set to work with depth
+ 4.
+ These auxiliary lemmas can be proven by Hipster's tactic and once it is
+ added to the affected problem theories, the remaining proofs are all automated
+ by Hipster.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Apart from being able to notice again my tendency towards convoluted forms
+ of expression, here, due to the use of the auxiliary verb 
+\begin_inset Quotes eld
+\end_inset
+
+would
+\begin_inset Quotes erd
+\end_inset
+
+, in the second sentence, the claim comes across as too speculative.
+ This was pointed out to me in feedback I got on the specific piece and
+ was also said to be a recurring pattern in my writing in that same feedback.
+ The original intent was to say that if the tool was run with such a setting
+ (
+\begin_inset Quotes eld
+\end_inset
+
+depth 4
+\begin_inset Quotes erd
+\end_inset
+
+), the 
+\begin_inset Quotes eld
+\end_inset
+
+conjecture would be generated
+\begin_inset Quotes erd
+\end_inset
+
+.
+ However, there is no speculation intended but the language can leave it
+ up to interpretation when, however, it is not: it was actually known that
+ it would be the case.
+ Unlike that, having a more direct way of expression leaves no space for
+ doubt, which is important in mathematics and computer science is important
+ since actual 
+\begin_inset Quotes eld
+\end_inset
+
+truths
+\begin_inset Quotes erd
+\end_inset
+
+ exist and are sought:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+For efficiency reasons, during theory exploration in Hipster (using the
+ underlying HipSpec/QuickSpec) lemmas are only constructed with terms up
+ to a certain depth, 3, whilst the required lemma has term depth 4.
+ With depth limit 4 QuickSpec can generate such a conjecture.
+ These auxiliary lemmas are proven by Hipster's tactic and once they are
+ added to the affected problem theories, the remaining proofs are all automated
+ by Hipster.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The new version is more clear in what the capabilities of the new tool are
+ and where the limitation comes in, being this not a fault of the logic
+ used but of the complexity in computation.
+ For the purpose of the work it belonged to, this is important to highlight
+ since it was related to broadening the kinds of proof of (special kinds
+ of) theorems which can be automated and the completeness of the method
+ employed is primordial.
+\end_layout
+
+\begin_layout Section
+Main strengths
+\end_layout
+
+\begin_layout Standard
+One of my biggest strengths which has not been brought up yet, is my ease
+ to communicate in English language.
+ Having studied in lower, middle and high school in English has already
+ prepared me to analyse texts in the language and write (more or less) coherentl
+y with a thought-out structure.
+ This possibly also came with training towards English language examinations
+ such as CPE (Proficiency).
+\end_layout
+
+\begin_layout Standard
+Having a relevant and strong background in two different fields related
+ to my research (with a total of seven years of study) is definitely helpful
+ too in terms of maturity when it comes to reading comprehension and ability
+ to express technical information.
+\end_layout
+
+\begin_layout Standard
+I am observant when reading, so I extract how each writer decides to present
+ their work depending on what their aim is.
+ Since I have had some practice with mimicking other people's style and/or
+ structuring, I feel confident that I can do similarly for future pieces
+ meant for a different venue or particular community slightly different
+ to the one I have started my training in.
+\end_layout
+
+\begin_layout Section
+Weaknesses, challenges and how to address them
+\end_layout
+
+\begin_layout Standard
+This last section covers how I have assessed my weakness and challenges
+ I find and how I intend to keep my line of work on them in the future.
+\end_layout
+
+\begin_layout Subsection
+Reading
+\end_layout
+
+\begin_layout Standard
+I set out in the previous version of the self-assessment to develop a better
+ approach to reading, as I claimed then:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+Not because of difficulty in understanding but because having a better method
+ might make it faster for me to read through a larger body of articles (importan
+t now that I am just starting my PhD).
+ My general tendency is to read quite deeply into an individual paper or
+ book, whilst it could be better to have a quicker way of getting an overview
+ even at the expense of missing out on details; those one can always come
+ back to if one finds it to be relevant.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Being at the beginning of my doctoral studies, I have had enough time to
+ practice, using the approach I outlined before:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+I am already addressing my reading difficulties by writing short notes and
+ holding myself accountable to having a good pace when reading by sharing
+ those notes with my supervisor and briefly presenting what I have understood
+ to him.
+ This also ensures I get some feedback in my reading.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Firstly, to be remarked is that these notes have generally related to content,
+ since this is my main focus when reading papers in related topics to my
+ research.
+ However, in preparation for a collaborative paper to be written for the
+ journal ACM TOMS (ACM Transactions on Mathematical Software), I have also
+ focused on reading papers related to the topic I have been working on making
+ notes on the structure followed as well.
+ An extract of such (personal) notes is attached under the title of the
+ publication they refer to, 
+\emph on
+Algorithm 839: FIAT, A New Paradigm for Computing Finite Element Basis Functions
+\emph default
+.
+ This has thus far been useful in drawing parallelisms between the structure
+ of my own work and that of already published studies and development with
+ a specific audience in mind, one I have not written for before: mainly
+ computational mathematicians (although others such as mathematicians and
+ computer scientists are also targeted by said journal).
+ It has also been a good exercise in order to gain a better insight as to
+ how much technicality actually goes into publications of this kind and
+ how much I can assume about the target audience, which can help in pitching
+ the ideas we are to present.
+\end_layout
+
+\begin_layout Standard
+This kind of analysis of related written work is something I haven't practiced
+ as much for longer pieces, but analysing this one piece has brought me
+ to realise more practically the benefit of doing so.
+ It is an analysis I can easily perform with texts from the biggest publication
+ venues in my field(s) of study, and so something I plan to do towards developin
+g both my reading and writing, paying specific attention to the publication
+ issues from the latest 5 to 8 years.
+\end_layout
+
+\begin_layout Standard
+Through all my reading and the course's workshops, I have been refining
+ my strategy (which I have only fully tested out in a few cases).
+ Against my typical tendency to reading into the details straight ahead,
+ I am incorporating (as part of my future action plan too) the following
+ reading workflow:
+\end_layout
+
+\begin_layout Enumerate
+Cover abstract and conclusion
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If uncertain of the relevance or interest of the work to me, or if it belongs
+ to an unfamiliar domain, move onto the introduction and results sections
+ to get a better feeling.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Skim through or read the text lightly, highlighting important considerations
+\end_layout
+
+\begin_layout Enumerate
+Closer re-read whilst taking notes
+\end_layout
+
+\begin_layout Standard
+This process of increased attention to detail creates a better context in
+ which to frame ideas and hence makes it more efficient to process a text.
+ Mainly, because texts 
+\emph on
+exist as a whole
+\emph default
+ and it is important to consider them in their entirety (unless, as has
+ been the case on occasion, a part of the text covers background literature
+ in a comprehensive and approachable way).
+\end_layout
+
+\begin_layout Standard
+Whereas whilst reading for understanding explicitly identifying moves from
+ or similar to the CARS suggested structure may not be a priority, the prelimina
+ry light read of the text helps in forming the full picture CARS suggests.
+ For me, personally, the posterior detailed reading gains more meaning when
+ all the main references (some of which may have been unknown to me up till
+ the moment of reading the paper), to theory or to recent or classical works,
+ have just been put in place by the first light read.
+\end_layout
+
+\begin_layout Subsection
+Writing
+\end_layout
+
+\begin_layout Standard
+Originally, I wrote:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+Even though I try to follow a structured process when writing, I often get
+ blocks or spend more time than what I judge is necessary on some parts,
+ even though I apply the strategy of having a general skeleton that I gradually
+ expand (which I think enables not only structuring and paragraphing, but
+ also makes it easier to aim what to write exactly in each session spent
+ on a specific text).
+ Something that maybe I will get past with practice but I would like to
+ improve my approach to writing to ease the process.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After the workshops and intensive reading of the past months, I have learned
+ that it is not only important to have a skeleton in mind, but also to write
+ a preliminary introductory section to whichever piece of writing I am working
+ on (not an abstract alone).
+ This forces me to condense what the overview of my work is, independently
+ of how this section is changed at later stages of the writing process.
+ As a common observed pattern, introductions in my field tend to summarise
+ (albeit in a relatively detailed way) the contributions of the work done
+ before jumping into the main body of the paper.
+ Having a clear view of the vital things that have to be explained, justified
+ and defended (as a claims or hypothesis of the work presented) from the
+ beginning of the writing process will help in giving a more clear purpose
+ to the whole paper.
+ This is something I yet have to put into practice properly, since I have
+ only tested it out in a technical report (which is in the making), but
+ it benefits not only the writing process but also the final paper: the
+ reader gets right from the beginning a concise presentation of the contribution
+ of the paper.
+\end_layout
+
+\begin_layout Standard
+After the feedback on the first self-assesment and reconsidering my experience
+ in writing, I have also identified that my initial writing process will
+ benefit from receiving feedback at earlier stages, even for smaller pieces
+ of writing such as the mentioned technical report.
+ Early criticism to a piece of writing ensures a text is shaped more carefully.
+ The single piece where I put it more strictly into practice was the research
+ statement a doctoral student is intended to produce as part of their study
+ plan (of which I attach the relevant pages, as the last attachment, under
+ the heading 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Brief Description of Your Research
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+).
+ In that concrete case, the aim was additionally to lay out the first insights
+ into my future research in a general way, intended to be understood by
+ a more general audience than specialists in my field or related ones.
+ In it, I paid attention to the structure of sections ensuring that the
+ goals were clear from the start (with the clear list at the end of the
+ leading section) as well as the techniques to employ (in Section 6.1 
+\emph on
+Domain of the DSL
+\emph default
+) before explaining the specific problem in more detail and the concrete
+ work to be delivered.
+ This piece of text was reviewed several points by my supervisor from the
+ first draft, which helped me also in understanding the final purpose of
+ it.
+\end_layout
+
+\begin_layout Standard
+With respect to the upcoming collaborative paper already mentioned here
+ and in the first assessment plan, not much has advanced due to the circumstance
+s of other individuals involved.
+ Initially I wrote:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{quotation}
+\end_layout
+
+\begin_layout Plain Layout
+
+I will be working with another person at my same level and two or three
+ seniors with different specialisations, so that will give good opportunity
+ to exercise the feedback and writing process interaction, as well as figure
+ out what in the concrete interdisciplinary field I should be focusing on
+ (being closer to Mathematics than my prior publication).
+ Writing with others will also help me identify more concretely common but
+ also diverse ways of formulating ideas (those to be presented not only
+ in a formal way).
+ Hopefully the course will enable me to gain awareness on how my own feedback
+ is taken and processed by others, something I do not have any impression
+ of yet.
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{quotation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The aforementioned technical report is work that will contribute to this
+ publication, however.
+ It has already given me some insight into the complications of writing
+ collaboratively with several people, one of the main ones being ensuring
+ a homogenous style.
+ In this case, since there are other senior researchers involved, I will
+ get the chance to observe how they proceed in that task which will surely
+ be reserved to them.
+\end_layout
+
+\begin_layout Standard
+With respect to practicalities of the process of writing I was questioned
+ about with my first self-assessment, the discussions that took place during
+ the second workshop of the course have been useful in defining how to organise
+ my writing more efficiently.
+ As with most things, scheduling is vital for me: throughout the course
+ I have figured out late afternoons and evenings are my most creative moments,
+ and that I benefit from varying my environment from a very focused one
+ (such as a library) to one where I can feel at total ease (such as at home),
+ both of which have in common the possibility of obstructing all interruptions.
+ Towards the future, this means planning the rest of my work around writing
+ (when there are writing duties due or I set them) will be beneficial to
+ me gaining a proper workflow and speed.
+\end_layout
+
+\end_body
+\end_document
